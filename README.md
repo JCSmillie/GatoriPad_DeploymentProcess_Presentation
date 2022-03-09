@@ -7,4 +7,5 @@ Link to MOSBasic Repo-> https://github.com/JCSmillie/MOSBasic
 
 Link to Misc Mosyle API Reference Script Repo-> https://github.com/JCSmillie/GSDMosyleAPI_Scripts
 
-Other files:
+Other files:.
+cfgutil_exec_example.sh  <-Quick and dirty example script to run with cfgutil exec -a 
