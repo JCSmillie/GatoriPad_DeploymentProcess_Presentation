@@ -13,4 +13,7 @@ cfgutil_exec_example.sh  <-Quick and dirty example script to run with cfgutil ex
 The video of ShakeNBake doing its thing can be found on my Google Drive.  It was too big to through on a Github in a nice mannor.  
 https://drive.google.com/file/d/1-28_WREDVW3hPTM1vc5fkik0eSBsJJjx
 
+The vide of Mosyle Limbo based iPads deploying can also be found in my Google Drive:
+https://drive.google.com/file/d/1BkoAv1usf331B6X8Hkz1GSzZFoqZSprc
+
 Video of Mosyle Limbo will post soon.
