@@ -13,7 +13,7 @@ echo "Type of iPad-> $Type"
 echo "ECID-> $ECID"
 echo "UDUD-> $UDID"
 echo "Location-> $Location   <--This is the location of the device according to the USB tree."
-echo "Name-> $Name   <--Name of the device currently."
+echo "Name-> $deviceName   <--Name of the device currently."
 echo "Build Version of iPadOS-> $buildVersion"
 
 echo "All of the info in the variables is given weather you have trust or not..."
