@@ -1,3 +1,9 @@
+# ATTENTION: This repo is archived...  All of this information and more can be found in our latest presentation for PSU MacAdmins 2022.  The repo link for that area is-> https://github.com/JCSmillie/PSUMacAdmins2022_iPadDeploymentsInGSD
+
+
+
+
+
 # GatoriPad_DeploymentProcess_Presentation
 Slides and example scripts from presentation given at Gateway High School to other IT folks from local districts about how we deploy our iPads with Mosyle and various custom scripts.  This presentation was given at the "Apple Round table Discussion for local Districts" hosted by Gateway School District on March 10th, 2022.
 
